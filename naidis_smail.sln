@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "naidis_smail", "naidis_smail\naidis_smail.pyproj", "{2F84C271-B39C-4B24-9025-CD0C1AD00213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F84C271-B39C-4B24-9025-CD0C1AD00213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F84C271-B39C-4B24-9025-CD0C1AD00213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6B21379-5035-4410-9BC7-1715532A89CF}
+	EndGlobalSection
+EndGlobal
